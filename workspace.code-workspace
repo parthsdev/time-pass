@@ -1,0 +1,161 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\450"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\CLASS DSA"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\codechef_codeforces"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\DSA Concepts"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\gr"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\OOPM"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\practise.cpp"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\z"
+		},
+		{
+			"path": "..\\D\\DSA CODES"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\DSA GFG QUESTIONS"
+		},
+		{
+			"path": "..\\D\\CN FILES"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\RECURSION"
+		},
+		{
+			"path": "..\\D\\STL"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\DSA_REVISION_EVERYWEEK_ONETOPIC"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\codechef_codeforces\\CONCEPT"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\WED DEVELOPMENT"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\HTML PRACTISE"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\FORMS"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\CSS PRACTISE"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\Java script"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\dom"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\CP"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\DP"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\Greedy"
+		},
+		{
+			"path": "..\\D\\VS CODE FILES\\CR"
+		},
+		{
+			"path": "E:/new downloades/ENDSEM PAPERS/SEM-6 MATERIALS/discord-app"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"cfenv": "cpp",
+			"charconv": "cpp",
+			"chrono": "cpp",
+			"cinttypes": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"codecvt": "cpp",
+			"complex": "cpp",
+			"condition_variable": "cpp",
+			"csetjmp": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cuchar": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"set": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"scoped_allocator": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"typeindex": "cpp",
+			"typeinfo": "cpp",
+			"valarray": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "dom"
+	}
+}

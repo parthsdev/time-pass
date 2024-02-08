@@ -1,0 +1,1 @@
+{"name":"Local: middleof","url":"d:\\New folder (2)\\middleof.cpp","tests":[{"id":1623559278023,"input":"1 4 5 6 7 -1\n7 8 9 10 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\New folder (2)\\middleof.cpp","group":"local","local":true}
