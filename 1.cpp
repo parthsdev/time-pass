@@ -11,6 +11,7 @@ public:
         next = NULL;
     }
 };
+//add
 node *input()
 {
     int data;
